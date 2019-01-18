@@ -4,3 +4,5 @@ Calculator works in the way that result of arithmethic operations will be shown 
 is entered. For example, pressing "1" displays 1. Then, pressing "+=" does not change anything in terms of dispayed numbers.
 Then, pressing "2" displays 2 on the calculator. Then, pressing "x" displays the result of previous operation, which is "3". 
 Then, pressing "8" displays 8 on the calculator. Then, pressing "-" displays "24" as result of "3*8". And so on.
+
+C ("clear") button lets the user start from the beginning (i.e. cleans all operations and numbers).
