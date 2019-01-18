@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
 			ww.afterOp = true;
 			let cur = document.getElementById("out").value; // the currently displayed value
 				
-			// Handles case with +=
+			// Handles case with += (add)
 			if (x === "+=") {
 				x = "+";
 			}
