@@ -1,0 +1,9 @@
+table, th, td {
+	border: 1px solid black;
+}
+button {
+	text-align: center;
+	background-color: grey;
+	width: 105%;
+	height: 100%;
+}
